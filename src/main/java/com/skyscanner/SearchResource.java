@@ -31,7 +31,6 @@ public class SearchResource {
                 response.add(result);
             }
         }
-
         return response;
     }
 }
