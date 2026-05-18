@@ -10,7 +10,7 @@ public class Search {
     public Search() {
 
     }
-
+//
     public Search(String city) {
         this.city = city;
     }

@@ -30,7 +30,7 @@ public class SearchResult {
     public String getTitle() {
         return title;
     }
-
+//
     public String getKind() {
         return kind;
     }
